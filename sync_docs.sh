@@ -8,11 +8,12 @@ set -e
 DOCS_DIR="$HOME/Desktop/UtilityApp_Docs"
 REPO_URL="$1"
 
+# Default repo
+DEFAULT_REPO="https://sslakd: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@github.com/sslakd/Utility-app.git"
+
 if [ -z "$REPO_URL" ]; then
-  echo "❌ Usage: $0 <repo_url>"
-  echo "   Example: $0 git@github.com:sslakd/utility-app-docs.git"
-  echo "   Example: $0 https://github.com/sslakd/utility-app-docs.git"
-  exit 1
+  REPO_URL="$DEFAULT_REPO"
+  echo "ℹ️  Using default repo"
 fi
 
 if [ ! -d "$DOCS_DIR" ]; then
@@ -62,4 +63,4 @@ git push -u origin main 2>/dev/null || git push -u origin master 2>/dev/null || 
 }
 
 echo ""
-echo "✅ Done!"
+echo "✅ Done! View at: https://github.com/sslakd/Utility-app"
