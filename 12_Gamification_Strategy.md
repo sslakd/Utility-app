@@ -231,3 +231,14 @@ Gamification không chỉ giữ chân — nó còn **thúc đẩy conversion san
 | Mystery box 1% rare | "Buy Premium... or try again tomorrow" |
 | Level 25+ rewards | Unlock Premium features naturally |
 | Share to Unlock | Viral loop → new users → new Premium prospects |
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, [Task tracker](00_Plan_and_Status.md#-task-tracker), [Gantt](00_Plan_and_Status.md#-gantt--6-tháng)
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile structure
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — [Gamification → Monetization](11_Monetization_Strategy.md#-tối-ưu-conversion)
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — Rate limiting & Premium

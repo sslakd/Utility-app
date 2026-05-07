@@ -58,3 +58,13 @@ Chuyển đổi giữa các định dạng file văn phòng phổ biến.
 | **Processing** | Client-side |
 | **Limit** | Free: ≤10k rows, Premium: unlimited |
 
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — File converter API endpoints
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
+

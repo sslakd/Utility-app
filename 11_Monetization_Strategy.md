@@ -105,3 +105,14 @@
 - **Scarcity:** "Free conversion remaining: 2" (đếm ngược)
 - **Social proof:** "254,000 files processed today"
 - **Mobile:** Rewarded video ads (user xem ad → free processing)
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — Rate limiting & Premium
+- [🗄️ Database Schema](08_Database_Schema.md) — `subscriptions` table
+- [🎮 Gamification Strategy](12_Gamification_Strategy.md) — [Gamification → Monetization](12_Gamification_Strategy.md#-gamification--monetization)
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile payment (RevenueCat)

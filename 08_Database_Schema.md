@@ -140,3 +140,15 @@ CREATE TABLE subscriptions (
   "timestamp": "2026-05-06T00:00:00Z"
 }
 ```
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — API endpoints
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile structure
+- [🚀 Deployment Guide](10_Deployment_Guide.md) — CI/CD, hosting
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
+- [🎮 Gamification Strategy](12_Gamification_Strategy.md) — 13 features, [DB schema cho gamification](12_Gamification_Strategy.md#database)

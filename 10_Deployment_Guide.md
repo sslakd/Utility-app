@@ -135,3 +135,14 @@ r2 admin bucket set-lifecycle utilityapp-processed \
 - [ ] SSL certificate (Vercel auto)
 - [ ] DNS records
 - [ ] Landing page SEO (meta tags, sitemap)
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — API endpoints
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile structure
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền

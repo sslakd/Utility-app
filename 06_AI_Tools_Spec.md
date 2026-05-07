@@ -63,3 +63,13 @@ Các tool sử dụng AI/ML để xử lý văn bản và hình ảnh.
 | **Mô tả** | Chat với AI để hỏi về file đã upload (Chat with PDF) |
 | **API** | OpenAI Assistants API (File search) |
 | **Note** | Tính năng advanced, implement sau cùng |
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — AI API endpoints
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
+- [🎮 Gamification Strategy](12_Gamification_Strategy.md) — 13 features gamification

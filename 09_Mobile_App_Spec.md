@@ -124,3 +124,15 @@ AppBar (tool name)
 | Min Android | 8.0 (API 26) |
 | Orientation | Portrait (chính) + Landscape (video/image) |
 | Localization | EN + JP + VI |
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [📄 PDF Tools Spec](02_PDF_Tools_Spec.md) — [Mobile Notes](02_PDF_Tools_Spec.md#mobile-notes-flutter)
+- [🖼️ Image Tools Spec](03_Image_Tools_Spec.md) — [Mobile-specific](03_Image_Tools_Spec.md#mobile-specific)
+- [🎮 Gamification Strategy](12_Gamification_Strategy.md) — 13 features, [Ma trận ưu tiên](12_Gamification_Strategy.md#-ma-trận-ưu-tiên)
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
+- [🚀 Deployment Guide](10_Deployment_Guide.md) — CI/CD, hosting

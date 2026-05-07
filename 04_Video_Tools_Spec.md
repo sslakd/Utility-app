@@ -82,3 +82,13 @@ Video tools **không thể** xử lý client-side 100% vì ffmpeg.wasm chậm v�
 - CPU: 2 vCPU
 - Timeout: 10 phút
 - Region: asia-southeast1 (gần user)
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — Video API endpoints
+- [🏗️ Deployment Guide](10_Deployment_Guide.md) — Cloud Run config
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền

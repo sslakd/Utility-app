@@ -101,3 +101,20 @@ User upload → Cloud Run → [OpenAI / Replicate API] → R2 storage → Downlo
 - **Files:** Cùng bucket R2 (upload web = xem được trên mobile)
 - **Premium:** Stripe webhook → cập nhật Firestore → cả 2 platform check role
 - **History:** Firestore collection chung
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [📄 PDF Tools Spec](02_PDF_Tools_Spec.md) — Chi tiết 12 tool PDF
+- [🖼️ Image Tools Spec](03_Image_Tools_Spec.md) — Chi tiết 15 tool Image
+- [🎬 Video Tools Spec](04_Video_Tools_Spec.md) — Chi tiết 8 tool Video
+- [📁 File Converters Spec](05_File_Converters_Spec.md) — Chi tiết 7 tool File
+- [🤖 AI Tools Spec](06_AI_Tools_Spec.md) — Chi tiết 7 tool AI
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — 200+ endpoints
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile structure
+- [🚀 Deployment Guide](10_Deployment_Guide.md) — CI/CD, hosting
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
+- [🎮 Gamification Strategy](12_Gamification_Strategy.md) — 13 features gamification

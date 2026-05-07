@@ -153,3 +153,18 @@ Response: { status: "processing" | "completed" | "failed", downloadUrl: "..." }
 | 422 | File corrupted / Cannot process |
 | 500 | Server error |
 | 504 | Processing timeout |
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [📄 PDF Tools Spec](02_PDF_Tools_Spec.md) — PDF tools detail
+- [🖼️ Image Tools Spec](03_Image_Tools_Spec.md) — Image tools detail
+- [🎬 Video Tools Spec](04_Video_Tools_Spec.md) — Video tools detail
+- [📁 File Converters Spec](05_File_Converters_Spec.md) — File converters detail
+- [🤖 AI Tools Spec](06_AI_Tools_Spec.md) — AI tools detail
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [🚀 Deployment Guide](10_Deployment_Guide.md) — CI/CD, hosting
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền

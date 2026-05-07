@@ -173,19 +173,19 @@
 
 | # | File | Nội dung |
 |---|------|----------|
-| 00 | `00_Plan_and_Status.md` | Overall plan & progress tracking |
-| 01 | `01_Overall_Architecture.md` | Kiến trúc tổng thể, tech stack |
-| 02 | `02_PDF_Tools_Spec.md` | 12 PDF tools spec |
-| 03 | `03_Image_Tools_Spec.md` | 15 Image tools spec |
-| 04 | `04_Video_Tools_Spec.md` | 8 Video tools spec |
-| 05 | `05_File_Converters_Spec.md` | 7 File converters spec |
-| 06 | `06_AI_Tools_Spec.md` | 7 AI tools spec |
-| 07 | `07_API_Backend_Spec.md` | 200+ API endpoints spec |
-| 08 | `08_Database_Schema.md` | Database tables & collections |
-| 09 | `09_Mobile_App_Spec.md` | Flutter project structure |
-| 10 | `10_Deployment_Guide.md` | Vercel, Codemagic, Cloud Run |
-| 11 | `11_Monetization_Strategy.md` | 9 monetization models |
-| 12 | `12_Gamification_Strategy.md` | 13 gamification features |
+| 00 | `📊 00_Plan_and_Status.md` | Overall plan & progress tracking |
+| 01 | `🏗️ 01_Overall_Architecture.md` | Kiến trúc tổng thể, tech stack |
+| 02 | `📄 02_PDF_Tools_Spec.md` | 12 PDF tools spec |
+| 03 | `🖼️ 03_Image_Tools_Spec.md` | 15 Image tools spec |
+| 04 | `🎬 04_Video_Tools_Spec.md` | 8 Video tools spec |
+| 05 | `📁 05_File_Converters_Spec.md` | 7 File converters spec |
+| 06 | `🤖 06_AI_Tools_Spec.md` | 7 AI tools spec |
+| 07 | `🔌 07_API_Backend_Spec.md` | 200+ API endpoints spec |
+| 08 | `🗄️ 08_Database_Schema.md` | Database tables & collections |
+| 09 | `📱 09_Mobile_App_Spec.md` | Flutter project structure |
+| 10 | `🚀 10_Deployment_Guide.md` | Vercel, Codemagic, Cloud Run |
+| 11 | `💰 11_Monetization_Strategy.md` | 9 monetization models |
+| 12 | `🎮 12_Gamification_Strategy.md` | 13 gamification features |
 
 ---
 
@@ -198,6 +198,24 @@
 | Reference: tinywow | https://tinywow.com |
 | Reference: smallpdf | https://www.smallpdf.com |
 | Tài liệu local | `~/Desktop/UtilityApp_Docs/` |
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) ← bạn đang ở đây
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [📄 PDF Tools Spec](02_PDF_Tools_Spec.md) — Chi tiết 12 tool PDF
+- [🖼️ Image Tools Spec](03_Image_Tools_Spec.md) — Chi tiết 15 tool Image
+- [🎬 Video Tools Spec](04_Video_Tools_Spec.md) — Chi tiết 8 tool Video
+- [📁 File Converters Spec](05_File_Converters_Spec.md) — Chi tiết 7 tool File
+- [🤖 AI Tools Spec](06_AI_Tools_Spec.md) — Chi tiết 7 tool AI
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — 200+ endpoints
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile structure
+- [🚀 Deployment Guide](10_Deployment_Guide.md) — CI/CD, hosting
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
+- [🎮 Gamification Strategy](12_Gamification_Strategy.md) — 13 features, [Ma trận ưu tiên](12_Gamification_Strategy.md#-ma-trận-ưu-tiên)
 
 ---
 

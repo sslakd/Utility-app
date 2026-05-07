@@ -129,3 +129,14 @@ ToolLayout
 - PDF manipulation: `syncfusion_flutter_pdf` hoặc custom dart implementation
 - Signature: Custom paint + touch events
 - Barcode/QR on mobile: `mobile_scanner`
+
+---
+
+## 🔗 Cross-references
+
+- [📊 Plan & Status](00_Plan_and_Status.md) — Overall plan, task tracker, progress
+- [🏗️ Tổng quan kiến trúc](01_Overall_Architecture.md) — Tech stack, data flow
+- [🔌 API Backend Spec](07_API_Backend_Spec.md) — PDF API endpoints
+- [🗄️ Database Schema](08_Database_Schema.md) — Tables & collections
+- [📱 Mobile App Spec (Flutter)](09_Mobile_App_Spec.md) — Mobile structure
+- [💰 Monetization Strategy](11_Monetization_Strategy.md) — 9 models kiếm tiền
