@@ -1,9 +1,13 @@
 # Utility App — Swiss Army Knife
 
 **Tên dự án:** UtilityApp.
+
 **Mô tả:** Ứng dụng đa năng xử lý PDF, Image, Video, File, AI — chạy trên Web (Next.js) và Mobile (Flutter).
+
 **Reference:** tinywow.com, smallpdf.com.
+
 **Team:** Dev A (Web) + Dev B (Mobile), part-time.
+
 **Timeline:** 6 tháng.
 
 ## Mục lục tài liệu
